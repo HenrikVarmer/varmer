@@ -1,0 +1,1 @@
+`%like%` <- function(a, b) grepl(pattern = b,x = a)
